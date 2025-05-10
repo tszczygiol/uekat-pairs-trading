@@ -10,7 +10,6 @@ The main purpose of this project is educational. It aims to present the key step
 
 - `pairs_trading_notebook.ipynb` – Jupyter Notebook with code, charts, and results  
 - `pairs_trading.py` – Python script exported from the notebook  
-- `Dokumentacja.pdf` – formal project documentation (in Polish)  
 - `requirements.txt` – list of required Python libraries
 
 ---
