@@ -17,7 +17,7 @@ The main purpose of this project is educational. It aims to present the key step
 ## Functionality
 
 - Fetching OHLCV stock data using the **Pandas Datareader API**
-- Calculating deviations, generating buy/sell signals, and data storage – **Pandas and NumPy**
+- Calculations, generating buy/sell signals, and data storage – **Pandas and NumPy**
 - Visualizations: closing prices, spread, signals – **matplotlib, seaborn**
 - ADF stationarity test and linear regression – **statsmodels**
 - Summary table of strategy results – **tabulate**
